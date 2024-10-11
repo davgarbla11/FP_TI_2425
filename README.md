@@ -1,2 +1,2 @@
 # FP_TI_2425
-GIISI UPO, 1º FP
+Trabajo individual asignatura Fundamentos de programacion de GIISI. Año 2024/25
